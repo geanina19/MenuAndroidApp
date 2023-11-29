@@ -2,13 +2,28 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/actionBarOpt1"
+        android:id="@+id/compartir"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:title="@string/action_bar_opcion_1" />
+        android:title="@string/compartir" />
     <item
-        android:id="@+id/actionBarOpt2"
+        android:id="@+id/generarPdp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:title="@string/action_bar_opcion2" />
+        android:title="@string/generar_pdp" />
+    <item
+        android:id="@+id/imprimir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/imprimir" />
+    <item
+        android:id="@+id/enviar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/enviar" />
+    <item
+        android:id="@+id/marcarComoPegada"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/marcar_como_pegada" />
 </menu>

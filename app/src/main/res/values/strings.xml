@@ -2,4 +2,9 @@
     <string name="app_name">MenusApp</string>
     <string name="action_bar_opcion_1">Opción 1</string>
     <string name="action_bar_opcion2">Opción 2</string>
+    <string name="compartir">Compartir</string>
+    <string name="generar_pdp">Generar PDP</string>
+    <string name="imprimir">Imprimir</string>
+    <string name="enviar">Enviar</string>
+    <string name="marcar_como_pegada">Marcar como pegada</string>
 </resources>

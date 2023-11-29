@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
 
         return when (item.itemId) {
-            R.id.actionBarOpt1 -> {
+            R.id.compartir -> {
                 Toast.makeText(
                     this,
                     "Opción 1 ejecutada",
@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
                 true
             }
 
-            R.id.actionBarOpt2 -> {
+            R.id.generarPdp -> {
                 Toast.makeText(
                     this,
                     "Opción 2 ejecutada",
