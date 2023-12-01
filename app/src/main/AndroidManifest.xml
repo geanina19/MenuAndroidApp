@@ -13,8 +13,11 @@
         android:theme="@style/Theme.MenusApp"
         tools:targetApi="31">
         <activity
-            android:name=".Menu2Ejer1Activity"
-            android:exported="false" />
+            android:name=".Ejer2Menu2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Ejer2Menu1Activity"
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

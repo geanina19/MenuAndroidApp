@@ -7,4 +7,8 @@
     <string name="imprimir">Imprimir</string>
     <string name="enviar">Enviar</string>
     <string name="marcar_como_pegada">Marcar como pegada</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="anterior">Anterior</string>
+    <string name="introduce_tu_nombre">Introduce tu nombre :</string>
+    <string name="nombre">Nombre</string>
 </resources>
