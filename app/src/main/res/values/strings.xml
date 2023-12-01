@@ -11,4 +11,6 @@
     <string name="anterior">Anterior</string>
     <string name="introduce_tu_nombre">Introduce tu nombre :</string>
     <string name="nombre">Nombre</string>
+    <string name="nombre2">Nombre</string>
+    <string name="texto_username_1">Texto Username 1</string>
 </resources>

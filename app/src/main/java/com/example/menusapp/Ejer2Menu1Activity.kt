@@ -23,8 +23,9 @@ class Ejer2Menu1Activity : AppCompatActivity() {
         //(Params.USERNAME.name) = "username" -> convierte en string
         //.getStringExtra -> coge String, si fuera int sería (.getIntExtra)
         val username = intent.getStringExtra(Ejer2Menu2Activity.Params.USERNAME.name)
-
-        binding.textViewNombre1.text = username
+        if(username != null) {
+            binding.textViewNombre1.text = username
+        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
