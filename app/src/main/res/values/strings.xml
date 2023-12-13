@@ -13,4 +13,8 @@
     <string name="nombre">Nombre</string>
     <string name="nombre2">Nombre</string>
     <string name="texto_username_1">Texto Username 1</string>
+    <string name="to">Name</string>
+    <string name="to_dirijido">To</string>
+    <string name="subject">Subject</string>
+    <string name="messaje">Messaje</string>
 </resources>
