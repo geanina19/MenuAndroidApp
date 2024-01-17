@@ -17,7 +17,7 @@ class EjemploMenuContextualActivity : AppCompatActivity() {
         binding = ActivityEjemploMenuContextualBinding.inflate(layoutInflater)
         setContentView(binding.root)
     }
-
+    /*
     override fun onCreateContextMenu(
         menu: ContextMenu?,
         v: View?,
@@ -46,6 +46,5 @@ class EjemploMenuContextualActivity : AppCompatActivity() {
             R.id.redOption -> {
                 item.actionView?.setBackgroundColor(Color.RED)
             }
-        }
+        }*/
     }
-}
